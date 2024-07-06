@@ -1,20 +1,20 @@
-# Heart Disease UCI Dataset Analysis
+# ❤️ Heart Disease UCI Dataset Analysis
 
 Welcome to the Heart Disease UCI Dataset Analysis project! This project aims to conduct hypothesis tests and calculate confidence intervals for the Heart Disease UCI dataset. The project is implemented in a Jupyter Notebook named `Hypothesis testing and confidence intervals.ipynb`.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Analysis](#analysis)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
-- [License](#license)
+## 📚 Table of Contents
+- [📋 Introduction](#introduction)
+- [📊 Dataset](#dataset)
+- [🔍 Analysis](#analysis)
+- [🛠️ Installation](#installation)
+- [🚀 Usage](#usage)
+- [📬 Contact](#contact)
+- [📜 License](#license)
 
-## Introduction
+## 📋 Introduction
 This project involves using statistical techniques to analyze the Heart Disease UCI dataset. It includes data preprocessing, descriptive statistics, hypothesis testing, and confidence interval calculation to understand the differences in health factors between patients with and without heart disease.
 
-## Dataset
+## 📊 Dataset
 The Heart Disease UCI dataset contains the following attributes:
 - **Age**: Age of the patient
 - **Sex**: Sex of the patient
@@ -24,14 +24,14 @@ The Heart Disease UCI dataset contains the following attributes:
 
 The dataset can be found in the file `heart_cleveland_upload.csv`.
 
-## Analysis
+## 🔍 Analysis
 The Jupyter notebook `Hypothesis testing and confidence intervals.ipynb` performs the following tasks:
-- Loads and cleans the dataset.
-- Calculates summary statistics for the dataset.
-- Conducts hypothesis tests to determine significant differences in health factors.
-- Calculates confidence intervals for mean differences in health factors.
+- 📂 Loads and cleans the dataset.
+- 📈 Calculates summary statistics for the dataset.
+- 🧪 Conducts hypothesis tests to determine significant differences in health factors.
+- 🔢 Calculates confidence intervals for mean differences in health factors.
 
-## Installation
+## 🛠️ Installation
 To get started with the Heart Disease UCI Dataset Analysis project, follow these steps:
 
 1. Clone the repository:
@@ -49,7 +49,7 @@ To get started with the Heart Disease UCI Dataset Analysis project, follow these
     pip install -r requirements.txt
     ```
 
-## Usage
+## 🚀 Usage
 To use the Heart Disease UCI Dataset Analysis notebook, follow these steps:
 
 1. Ensure you have the necessary dependencies installed (see Installation section).
@@ -61,14 +61,14 @@ To use the Heart Disease UCI Dataset Analysis notebook, follow these steps:
 
 3. Follow the instructions within the notebook to load data, perform analysis, and interpret the results.
 
-## Contact
+## 📬 Contact
 For any questions or inquiries, please feel free to contact me via LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
 
-## License
+## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Happy Analyzing!
+Happy Analyzing! 🎉
